@@ -1,3 +1,3 @@
 project: h-training
-bins:
+bin:
   - bin/h-training
